@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>07E7675D-E712-4BDE-8834-5F108D64501E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>tctest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>01AC1728-A39F-475C-84E9-BEE032C0C00D</key>
+		<string>ssh://github.com/camertron/tctest.git</string>
+		<key>2C24F945-2497-4CE6-A6FA-5B5BD0E0C9DC</key>
+		<string>ssh://github.com/camertron/tctest-xcode.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>tctest.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>01AC1728-A39F-475C-84E9-BEE032C0C00D</key>
+		<string>../../../../workspace/tctest</string>
+		<key>2C24F945-2497-4CE6-A6FA-5B5BD0E0C9DC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/camertron/tctest-xcode.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2C24F945-2497-4CE6-A6FA-5B5BD0E0C9DC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>01AC1728-A39F-475C-84E9-BEE032C0C00D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>tctest</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2C24F945-2497-4CE6-A6FA-5B5BD0E0C9DC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>tctest-code</string>
+		</dict>
+	</array>
+</dict>
+</plist>
